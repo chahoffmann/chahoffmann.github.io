@@ -189,8 +189,8 @@ exclude:
   - _pages/repositories.md
   - _pages/teaching.md
   - _pages/projects.md
+  - _pages/profiles.md
   - _pages/cv.md
-  - _pages/people.md
   - _posts/
   - _news/announcement_*.md
   - bin/
