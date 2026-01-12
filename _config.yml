@@ -193,6 +193,7 @@ exclude:
   - _pages/cv.md
   - _posts/
   - _news/announcement_*.md
+  - _pages/dropdown.md
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
