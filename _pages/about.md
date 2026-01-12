@@ -30,4 +30,6 @@ latest_posts:
 # in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 ---
 
-I'm a cryptographer working as a postdoc at ISTA in Krzysztof Pietrzak's group.
+I'm a cryptographer working as a postdoc in Krzysztof Pietrzak's group at ISTA. My research interests are time-released cryptography, provable security, post-quantum security, idealized models and secret sharing.
+
+My [Erdős-Bacon number](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number) is 7.
