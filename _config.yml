@@ -192,6 +192,8 @@ exclude:
   - _pages/profiles.md
   - _pages/cv.md
   - _posts/
+  - _projects/
+  - _books/
   - _news/announcement_*.md
   - _pages/dropdown.md
   - bin/
