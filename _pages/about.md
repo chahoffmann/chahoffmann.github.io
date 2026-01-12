@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Institute of Science and Technology Austria</a>.
+subtitle: <a href='#'>Institute of Science and Technology Austria</a>
 
 profile:
   align: right
