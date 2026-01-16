@@ -31,6 +31,20 @@ ninja.data = [{
           window.open("mailto:%63%68%61%68%6F%66%66%6D%61%6E%6E@%70%72%6F%74%6F%6E.%6D%65", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/charlotte-hoffmann-7a55893a6", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0003-2027-5549", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
