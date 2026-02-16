@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-06'
+  last_updated: '2026-02-16'
 papers:
   3U0rG8UAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -18,19 +18,19 @@ papers:
     title: Stronger lower bounds for leakage-resilient secret sharing
     year: '2023'
   3U0rG8UAAAAJ:W7OEmFMy1HYC:
-    citations: 7
+    citations: 8
     title: Watermarkable and zero-knowledge verifiable delay functions from any proof of exponentiation
     year: '2025'
   3U0rG8UAAAAJ:Y0pCki6q_DkC:
-    citations: 9
+    citations: 10
     title: Traceable secret sharing based on the chinese remainder theorem
     year: '2024'
   3U0rG8UAAAAJ:YsMSGLbcyi4C:
-    citations: 3
+    citations: 5
     title: On extractability of the KZG family of polynomial commitment schemes
     year: '2025'
   3U0rG8UAAAAJ:d1gkVwhDpl0C:
-    citations: 18
+    citations: 19
     title: Practical statistically-sound proofs of exponentiation in any group
     year: '2022'
   3U0rG8UAAAAJ:eQOLeE2rZwMC:
