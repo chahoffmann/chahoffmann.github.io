@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-06-01'
 papers:
   3U0rG8UAAAAJ:2osOgNQ5qMEC:
     citations: 6
@@ -10,7 +10,7 @@ papers:
     title: Public-key encryption from homogeneous clwe
     year: '2022'
   3U0rG8UAAAAJ:IjCSPb-OGe4C:
-    citations: 4
+    citations: 5
     title: (Verifiable) delay functions from lucas sequences
     year: '2023'
   3U0rG8UAAAAJ:UeHWp8X0CEIC:
@@ -34,7 +34,7 @@ papers:
     title: 'SPoCK: Sequential Proofs of Complete Knowledge'
     year: '2026'
   3U0rG8UAAAAJ:d1gkVwhDpl0C:
-    citations: 19
+    citations: 20
     title: Practical statistically-sound proofs of exponentiation in any group
     year: '2022'
   3U0rG8UAAAAJ:eQOLeE2rZwMC:
