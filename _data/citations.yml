@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-29'
 papers:
   3U0rG8UAAAAJ:2osOgNQ5qMEC:
     citations: 6
@@ -54,6 +54,6 @@ papers:
     title: Blind Verifiable Delay Functions
     year: '2026'
   3U0rG8UAAAAJ:zYLM7Y9cAGgC:
-    citations: 3
+    citations: 5
     title: Practical batch proofs of exponentiation
     year: '2025'
