@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-08'
 papers:
   3U0rG8UAAAAJ:2osOgNQ5qMEC:
     citations: 6
     title: Certifying giant nonprimes
     year: '2023'
   3U0rG8UAAAAJ:9yKSN-GCB0IC:
-    citations: 16
+    citations: 17
     title: Public-key encryption from homogeneous clwe
     year: '2022'
   3U0rG8UAAAAJ:IjCSPb-OGe4C:
@@ -42,7 +42,7 @@ papers:
     title: Theory and applications of verifiable delay functions
     year: '2025'
   3U0rG8UAAAAJ:qjMakFHDy7sC:
-    citations: 6
+    citations: 7
     title: 'Generic-group lower bounds via reductions between geometric-search problems: With and without preprocessing'
     year: '2023'
   3U0rG8UAAAAJ:u-x6o8ySG0sC:
