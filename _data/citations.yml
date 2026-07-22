@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-22'
 papers:
   3U0rG8UAAAAJ:2osOgNQ5qMEC:
     citations: 6
@@ -10,7 +10,7 @@ papers:
     title: Public-key encryption from homogeneous clwe
     year: '2022'
   3U0rG8UAAAAJ:IjCSPb-OGe4C:
-    citations: 5
+    citations: 6
     title: (Verifiable) delay functions from lucas sequences
     year: '2023'
   3U0rG8UAAAAJ:UeHWp8X0CEIC:
@@ -18,7 +18,7 @@ papers:
     title: Stronger lower bounds for leakage-resilient secret sharing
     year: '2023'
   3U0rG8UAAAAJ:W7OEmFMy1HYC:
-    citations: 10
+    citations: 12
     title: Watermarkable and zero-knowledge verifiable delay functions from any proof of exponentiation
     year: '2025'
   3U0rG8UAAAAJ:Y0pCki6q_DkC:
