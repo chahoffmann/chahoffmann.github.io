@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-17'
 papers:
   3U0rG8UAAAAJ:2osOgNQ5qMEC:
     citations: 6
@@ -22,11 +22,11 @@ papers:
     title: Watermarkable and zero-knowledge verifiable delay functions from any proof of exponentiation
     year: '2025'
   3U0rG8UAAAAJ:Y0pCki6q_DkC:
-    citations: 12
-    title: Traceable secret sharing based on the chinese remainder theorem
+    citations: 13
+    title: Traceable secret sharing based on the Chinese remainder theorem
     year: '2024'
   3U0rG8UAAAAJ:YsMSGLbcyi4C:
-    citations: 10
+    citations: 11
     title: On extractability of the KZG family of polynomial commitment schemes
     year: '2025'
   3U0rG8UAAAAJ:_FxGoFyzp5QC:
@@ -42,7 +42,7 @@ papers:
     title: Theory and applications of verifiable delay functions
     year: '2025'
   3U0rG8UAAAAJ:qjMakFHDy7sC:
-    citations: 7
+    citations: 8
     title: 'Generic-group lower bounds via reductions between geometric-search problems: With and without preprocessing'
     year: '2023'
   3U0rG8UAAAAJ:u-x6o8ySG0sC:
